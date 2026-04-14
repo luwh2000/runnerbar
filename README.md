@@ -17,11 +17,17 @@
 - `target_image.jpg`
 - `target_video.mp4`
 
-评审时请替换为**你本人拍摄/你有明确授权**的素材；本 Demo 将拒绝处理白名单外文件。
+当前演示素材统一使用 [Vecteezy](https://www.vecteezy.com/) 获取并授权的图片/视频；本 Demo 将拒绝处理白名单外文件。
 
-> 使用权声明模板：
-> - source 素材：由我本人拍摄/持有授权（可附授权截图或说明）
-> - target 素材：由我本人拍摄/持有授权（可附授权截图或说明）
+> Vecteezy 授权记录模板（建议随仓库保存截图或下载记录）：
+> - source 素材：来自 Vecteezy（资源链接：`<填写 URL>`；License：`Free` 或 `Pro`）
+> - target image 素材：来自 Vecteezy（资源链接：`<填写 URL>`；License：`Free` 或 `Pro`）
+> - target video 素材：来自 Vecteezy（资源链接：`<填写 URL>`；License：`Free` 或 `Pro`）
+>
+> 说明：
+> - 若使用 Vecteezy `Free` 资源，需按平台条款完成署名/归因。
+> - 若使用 Vecteezy `Pro` 资源，按对应条款执行（通常可免署名）。
+> - 请遵守 Vecteezy 最新《Terms & Licensing Agreement》。
 
 ---
 
