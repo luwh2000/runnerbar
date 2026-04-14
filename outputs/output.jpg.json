@@ -1,0 +1,10 @@
+{
+  "note": "placeholder sidecar report; generated automatically after real run",
+  "risk_controls": {
+    "whitelist_only": true,
+    "fixed_filename_gate": true,
+    "single_face_only": true,
+    "visible_watermark": true,
+    "metadata_sidecar": true
+  }
+}
